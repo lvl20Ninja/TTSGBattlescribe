@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="MediGame" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Fantasty Medievel TTRPG.gstz" dataType="gamesystem" dataId="2d0a-f573-f207-4f46" dataName="Fantasty Medievel TTRPG" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="Dark Elves.catz" dataType="catalogue" dataId="3fae-266a-6c67-2d8f" dataName="Dark Elves" dataBattleScribeVersion="2.03" dataRevision="4"/>
+    <dataIndexEntry filePath="Middle Kingdoms.catz" dataType="catalogue" dataId="0b27-4d87-16f4-7f15" dataName="Middle Kingdoms" dataBattleScribeVersion="2.03" dataRevision="4"/>
+  </dataIndexEntries>
+</dataIndex>
